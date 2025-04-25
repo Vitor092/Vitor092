@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 Me chamo Vitor
+<img src="https://www.sereducacional.com/storage/app/uploads/uninorte-2.png">
 <h1>Uninorte</h1>
 <!
 **Vitor092/Vitor092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
