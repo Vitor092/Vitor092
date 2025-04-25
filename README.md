@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 Me chamo Vitor
-<img src="https://github.com/user-attachments/assets/7013f4c6-2241-4925-a395-93e438e6ec1b)
-">
+<img src="https://github.com/user-attachments/assets/0c62f8c0-f2bc-4cf2-af3c-e541b405ec64">
 <h1>Uninorte</h1>
 <!
 **Vitor092/Vitor092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
