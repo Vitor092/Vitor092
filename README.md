@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Me chamo Vitor
 <img src="https://github.com/user-attachments/assets/0c62f8c0-f2bc-4cf2-af3c-e541b405ec64">
 <h1>Uninorte</h1>
 <!
